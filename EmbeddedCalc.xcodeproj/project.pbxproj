@@ -25,6 +25,7 @@
 		CE14DF6D2C76378A0011B9AF /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE14DF6C2C76378A0011B9AF /* CalculatorButton.swift */; };
 		CE14DF6F2C763FD70011B9AF /* CalculatorViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE14DF6E2C763FD70011B9AF /* CalculatorViewModelTest.swift */; };
 		CE14DF712C763FEF0011B9AF /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE14DF702C763FEF0011B9AF /* CalculatorModel.swift */; };
+		CE14DF742C7643A90011B9AF /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE14DF732C7643A90011B9AF /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,8 @@
 		CE14DF6C2C76378A0011B9AF /* CalculatorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
 		CE14DF6E2C763FD70011B9AF /* CalculatorViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewModelTest.swift; sourceTree = "<group>"; };
 		CE14DF702C763FEF0011B9AF /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
+		CE14DF722C76433E0011B9AF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CE14DF732C7643A90011B9AF /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 		CE14DF212C7634070011B9AF = {
 			isa = PBXGroup;
 			children = (
+				CE14DF732C7643A90011B9AF /* LICENSE.txt */,
+				CE14DF722C76433E0011B9AF /* README.md */,
 				CE14DF2C2C7634070011B9AF /* EmbeddedCalc */,
 				CE14DF3E2C7634080011B9AF /* EmbeddedCalcTests */,
 				CE14DF482C7634080011B9AF /* EmbeddedCalcUITests */,
@@ -275,6 +280,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE14DF742C7643A90011B9AF /* LICENSE.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
