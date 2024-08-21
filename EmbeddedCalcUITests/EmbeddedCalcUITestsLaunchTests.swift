@@ -1,10 +1,3 @@
-//
-//  EmbeddedCalcUITestsLaunchTests.swift
-//  EmbeddedCalcUITests
-//
-//  Created by 少路春希 on 2024/08/21.
-//
-
 import XCTest
 
 final class EmbeddedCalcUITestsLaunchTests: XCTestCase {
