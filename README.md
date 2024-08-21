@@ -28,7 +28,7 @@ EmbeddedCalcは、基本的な算術演算に加え、16進数変換、2進数�
 1. リポジトリをクローンします:
 
    ```bash
-   git clone https://github.com/yourusername/EmbeddedCalc.git
+   git clone https://github.com/SEAMUSJP/EmbeddedCalc.git
    ```
 
 2. プロジェクトをXcodeで開きます:
